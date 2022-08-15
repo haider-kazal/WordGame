@@ -1,14 +1,14 @@
 //
-//  WordGameTests.swift
-//  WordGameTests
+//  DomainTests.swift
+//  DomainTests
 //
 //  Created by Haider Ali Kazal on 10/8/22.
 //
 
 import XCTest
-@testable import WordGame
+@testable import Domain
 
-class WordGameTests: XCTestCase {
+class DomainTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -18,6 +18,7 @@ class WordGameTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
 
+    /*
     func testExample() throws {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct results.
@@ -32,5 +33,5 @@ class WordGameTests: XCTestCase {
             // Put the code you want to measure the time of here.
         }
     }
-
+     */
 }

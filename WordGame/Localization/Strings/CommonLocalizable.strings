@@ -1,0 +1,22 @@
+/* 
+  CommonLocalizable.strings
+  WordGame
+
+  Created by Haider Ali Kazal on 13/8/22.
+  
+*/
+
+"Common - Please Wait" = "Please Wait";
+"Common - Processing" = "Processing";
+"Common - Yes" = "Yes";
+"Common - No" = "No";
+"Common - OK" = "OK";
+"Common - Cancel" = "Cancel";
+"Common - Next" = "Next";
+"Common - Submit" = "Submit";
+"Common - Previous" = "Previous";
+"Common - Failed" = "Failed";
+"Common - Confirm" = "Confirm";
+"Common - Back" = "Back";
+"Common - Something went wrong" = "Something went wrong";
+"Common - Done" = "Done";

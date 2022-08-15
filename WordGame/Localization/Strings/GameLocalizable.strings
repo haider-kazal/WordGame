@@ -1,0 +1,13 @@
+/* 
+  GameLocalizable.strings
+  WordGame
+
+  Created by Haider Ali Kazal on 13/8/22.
+  
+*/
+
+"Game - Correct attempts" = "Correct attempts: __score__";
+"Game - Wrong attempts" = "Wrong attempts: __score__";
+"Game - Restart" = "Restart";
+"Game - Quit" = "Quit";
+"Game - Score!" = "Score";
